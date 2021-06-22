@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jonathon Wei
+- 👀 I’m passionate about software system design and use the right pattern at the right time with the right people
+- 🌱 I’m currently building my own perspective of what is the best way to design a system
